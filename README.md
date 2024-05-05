@@ -46,4 +46,22 @@ Les trois modèles que nous avons choisi de fine-tuner sont :
 
 ![](https://skillicons.dev/icons?i=fastapi,tensorflow,github,notion,discord&theme=dark)
 
+## Compétences Acquises
+
+Ce projet de fine-tuning de modèles de Question-Réponse (QA) m'a permis de développer et d'appliquer un large éventail de compétences techniques et pratiques :
+
+- **Compréhension des modèles de NLP :** J'ai approfondi ma compréhension des architectures et des fonctionnements des modèles de traitement du langage naturel (NLP) tels que T5, BERT et RoBERTa.
+
+- **Fine-tuning de modèles :** J'ai acquis de l'expérience dans le processus de fine-tuning des modèles de NLP sur des données spécifiques, en utilisant des techniques telles que le fine-tuning par transfert d'apprentissage.
+
+- **Evaluation de modèles :** J'ai appris à évaluer les performances des modèles fine-tunés en utilisant des métriques standard dans le domaine des questions-réponses, ce qui inclut la précision, le rappel et la F-mesure.
+
+- **Développement d'interface utilisateur :** En utilisant FastAPI, j'ai développé une interface utilisateur conviviale permettant aux utilisateurs de poser des questions et d'obtenir des réponses précises à partir des modèles fine-tunés.
+
+- **Gestion de projet :** J'ai eu l'occasion de participer à toutes les étapes du projet, de la planification à la mise en œuvre, en passant par l'évaluation et le déploiement, ce qui m'a permis de développer des compétences en gestion de projet.
+
+- **Collaboration d'équipe :** Travailler avec une équipe multidisciplinaire m'a permis de développer mes compétences en communication, en collaboration et en résolution de problèmes, en travaillant ensemble vers un objectif commun.
+
+- **Déploiement d'application :** J'ai acquis une expérience pratique dans le déploiement d'applications web et de modèles de NLP sur des plateformes telles que Hugging Face, ce qui m'a permis de comprendre les aspects pratiques de la mise en production de solutions basées sur l'IA.
+
 </div>
